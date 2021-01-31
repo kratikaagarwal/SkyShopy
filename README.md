@@ -11,4 +11,4 @@ Shopping App
 
 ## Screenshots
 
-<img src="https://github.com/kratikaagarwal/SkyShopy/blob/main/screenshot/splash_image.jpg" 
+<img src="https://github.com/kratikaagarwal/SkyShopy/blob/main/screenshot/splash_image.jpg" >
